@@ -8,7 +8,7 @@
 ### 🚀 Spotlight
 
 #### Developer Tools
-- 🛠️ [Custom Tab Extension](https://github.com/Jaan19867/Custom-Tab-Extension) -A modern Chrome extension built with React and Vite that customizes your new tab page and provides a convenient popup interface.
+- 🛠️ [Custom Tab Extension](https://github.com/Jaan-Mustafa/Custom-Tab-Extension) -A modern Chrome extension built with React and Vite that customizes your new tab page and provides a convenient popup interface.
 
 
 <!-- #### Libraries
@@ -22,7 +22,7 @@
 - 🔄 Service 3 - Description here -->
 
 ####  Projects
-- 🎮 [Terminal Based Portfolio](https://github.com/Jaan19867/Terminal-based-portfolio) - A modern terminal-styled portfolio website built with Next.js, featuring an interactive command-line interface and auto-updating content. Experience a unique way of presenting my work through a developer's terminal.
+- 🎮 [Terminal Based Portfolio](https://github.com/Jaan-Mustafa/Terminal-based-portfolio) - A modern terminal-styled portfolio website built with Next.js, featuring an interactive command-line interface and auto-updating content. Experience a unique way of presenting my work through a developer's terminal.
 
 
 </td>
@@ -50,9 +50,9 @@
 
 ### 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaan19867&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jaan-Mustafa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaan19867&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaan-Mustafa&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 
 </td>
 </tr>
