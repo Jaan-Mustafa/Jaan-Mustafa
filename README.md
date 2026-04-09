@@ -1,6 +1,9 @@
                                                                            
-  ### 🚀 Spotlight                                                                                                                                                                               
-                                                                                                                                                                                                 
+  ### 🚀 Spotlight     
+
+  #### Skills 
+  [10x-Team](https://github.com/Jaan-Mustafa/10x-Team) - AI coding plugin that gives you an entire engineering team — CTO, SRE, DBA, Security Engineer, and more — as AI skills.
+                                                                                                                                                                                            
   #### Developer Tools                                                                                                                                                                           
   - 🛠️  [Custom Tab Extension](https://github.com/Jaan-Mustafa/Custom-Tab-Extension) - A modern Chrome extension built with React and Vite that customizes your new tab page and provides a       
   convenient popup interface.                                                                                                                                                                    
