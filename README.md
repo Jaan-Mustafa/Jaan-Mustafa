@@ -1,7 +1,7 @@
 ### 🚀 Spotlight
 
   #### Projects 
-  - [Naukri Clear](https://naukriclear.com/) - A quieter way to track your job hunt , manage your resume , create template for email , add recruiter contact  .
+  - [Naukri Clear](https://naukriclear.com/) - A quieter way to track your job hunt , manage your resume , create template for email , add recruiter contact ,  256 users  .
     
   - 🎮 [Terminal Based Portfolio](https://github.com/Jaan-Mustafa/Terminal-based-portfolio) - A modern terminal-styled portfolio website built with Next.js, featuring an interactive
   command-line interface and auto-updating content.                                                                                                                                        
