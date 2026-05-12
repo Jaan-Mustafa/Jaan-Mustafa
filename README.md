@@ -1,7 +1,7 @@
 ### 🚀 Spotlight
 
   #### Projects 
-  - [Naukri Clear](https://naukriclear.com/) - A quieter way to track your job hunt , manage your resume , create template for email , add recruiter contact ,  256 users  .
+  - [Naukri Clear](https://naukriclear.com/) - A quieter way to track your job hunt , manage your resume , create template for email , add recruiter contact ,  1800 users  .
   - [TNP - Portal ](https://github.com/Jaan-Mustafa/TNP-Portal) - Platform to support placement in Colleges , where company can list themself , and students can apply .
   - [Velocity](https://github.com/Jaan-Mustafa/VeloCity-fe) - Ride booking app . 
     
